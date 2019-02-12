@@ -1,0 +1,20 @@
+#canvas{
+    margin:auto;
+    background:#ececec;
+    width: 100%;
+
+}
+
+#left_mark{
+    float:above;
+    display:block;
+    width:50%;
+  background-position-x: 20%;
+  background-position-y: 20%;
+  padding-block-end: 10%;
+  
+    
+}
+div>img{
+  width:100%;
+}
